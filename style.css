@@ -486,12 +486,7 @@ footer p {
     .box1 {
         flex-direction: column;
     }
-
-    .box3 {
-        flex-direction: column;
-    }
-
-    .card1 {
+    .card {
         flex-direction: column;
     }
 
